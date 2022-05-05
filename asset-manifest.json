@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react_TMDB/static/css/main.6a3e57cb.css",
+    "main.js": "/react_TMDB/static/js/main.aa91e46a.js",
+    "static/js/787.5c4184a0.chunk.js": "/react_TMDB/static/js/787.5c4184a0.chunk.js",
+    "static/media/BS_login.png": "/react_TMDB/static/media/BS_login.39ae447d7a79c247d057.png",
+    "static/media/KKTV.svg": "/react_TMDB/static/media/KKTV.8b86f5949e72e4496c3f614b02c572b4.svg",
+    "static/media/Netflix.svg": "/react_TMDB/static/media/Netflix.03f849c031c20883f53d8c91924c2ede.svg",
+    "static/media/No_image.png": "/react_TMDB/static/media/No_image.142858b19e9dd5cea01a.png",
+    "static/media/Amazon.svg": "/react_TMDB/static/media/Amazon.58efe0a92fa89c5ad5ec3ffbf10765c7.svg",
+    "static/media/DisneyPlus.svg": "/react_TMDB/static/media/DisneyPlus.8fd4dbcd8bed8858bf9c0e09d57ae9ee.svg",
+    "static/media/QIY.svg": "/react_TMDB/static/media/QIY.459ba49dd9af677b9c45d4e1c79cbdde.svg",
+    "static/media/AppleTV.svg": "/react_TMDB/static/media/AppleTV.1728c4707990fadc6a8c41d9c75b15f1.svg",
+    "static/media/userQuestion.webp": "/react_TMDB/static/media/userQuestion.5bc94c0d8aabc2fa05a4.webp",
+    "static/media/LineTV.svg": "/react_TMDB/static/media/LineTV.2f62d002cddf33232dd0389651b1aa1b.svg",
+    "index.html": "/react_TMDB/index.html",
+    "main.6a3e57cb.css.map": "/react_TMDB/static/css/main.6a3e57cb.css.map",
+    "main.aa91e46a.js.map": "/react_TMDB/static/js/main.aa91e46a.js.map",
+    "787.5c4184a0.chunk.js.map": "/react_TMDB/static/js/787.5c4184a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a3e57cb.css",
+    "static/js/main.aa91e46a.js"
+  ]
+}
