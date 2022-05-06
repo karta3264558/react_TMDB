@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://karta3264558.github.io/react_TMDB/static/css/main.2b6c6b9e.css",
-    "main.js": "https://karta3264558.github.io/react_TMDB/static/js/main.30b50671.js",
+    "main.css": "https://karta3264558.github.io/react_TMDB/static/css/main.dd987595.css",
+    "main.js": "https://karta3264558.github.io/react_TMDB/static/js/main.46ad47aa.js",
     "static/js/787.5c4184a0.chunk.js": "https://karta3264558.github.io/react_TMDB/static/js/787.5c4184a0.chunk.js",
     "static/media/BS_login.png": "https://karta3264558.github.io/react_TMDB/static/media/BS_login.39ae447d7a79c247d057.png",
     "static/media/KKTV.svg": "https://karta3264558.github.io/react_TMDB/static/media/KKTV.8b86f5949e72e4496c3f614b02c572b4.svg",
@@ -14,12 +14,12 @@
     "static/media/userQuestion.webp": "https://karta3264558.github.io/react_TMDB/static/media/userQuestion.5bc94c0d8aabc2fa05a4.webp",
     "static/media/LineTV.svg": "https://karta3264558.github.io/react_TMDB/static/media/LineTV.2f62d002cddf33232dd0389651b1aa1b.svg",
     "index.html": "https://karta3264558.github.io/react_TMDB/index.html",
-    "main.2b6c6b9e.css.map": "https://karta3264558.github.io/react_TMDB/static/css/main.2b6c6b9e.css.map",
-    "main.30b50671.js.map": "https://karta3264558.github.io/react_TMDB/static/js/main.30b50671.js.map",
+    "main.dd987595.css.map": "https://karta3264558.github.io/react_TMDB/static/css/main.dd987595.css.map",
+    "main.46ad47aa.js.map": "https://karta3264558.github.io/react_TMDB/static/js/main.46ad47aa.js.map",
     "787.5c4184a0.chunk.js.map": "https://karta3264558.github.io/react_TMDB/static/js/787.5c4184a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b6c6b9e.css",
-    "static/js/main.30b50671.js"
+    "static/css/main.dd987595.css",
+    "static/js/main.46ad47aa.js"
   ]
 }
