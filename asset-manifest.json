@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://karta3264558.github.io/react_TMDB/static/css/main.e03a8685.css",
-    "main.js": "https://karta3264558.github.io/react_TMDB/static/js/main.ec4cb49d.js",
+    "main.js": "https://karta3264558.github.io/react_TMDB/static/js/main.6080ffab.js",
     "static/js/787.5c4184a0.chunk.js": "https://karta3264558.github.io/react_TMDB/static/js/787.5c4184a0.chunk.js",
     "static/media/BS_login.png": "https://karta3264558.github.io/react_TMDB/static/media/BS_login.39ae447d7a79c247d057.png",
     "static/media/KKTV.svg": "https://karta3264558.github.io/react_TMDB/static/media/KKTV.8b86f5949e72e4496c3f614b02c572b4.svg",
@@ -15,11 +15,11 @@
     "static/media/LineTV.svg": "https://karta3264558.github.io/react_TMDB/static/media/LineTV.2f62d002cddf33232dd0389651b1aa1b.svg",
     "index.html": "https://karta3264558.github.io/react_TMDB/index.html",
     "main.e03a8685.css.map": "https://karta3264558.github.io/react_TMDB/static/css/main.e03a8685.css.map",
-    "main.ec4cb49d.js.map": "https://karta3264558.github.io/react_TMDB/static/js/main.ec4cb49d.js.map",
+    "main.6080ffab.js.map": "https://karta3264558.github.io/react_TMDB/static/js/main.6080ffab.js.map",
     "787.5c4184a0.chunk.js.map": "https://karta3264558.github.io/react_TMDB/static/js/787.5c4184a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e03a8685.css",
-    "static/js/main.ec4cb49d.js"
+    "static/js/main.6080ffab.js"
   ]
 }
